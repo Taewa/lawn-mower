@@ -2,9 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
-## Setup
-1. `npm install`
-2. `ng test`
+## Install
+* `npm install`
 
 ## Running unit tests
 
